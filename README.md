@@ -1,2 +1,3 @@
-# deoxy.ml
-DEOXY'S Personal Website!
+# Tetris
+
+A browser based Tetris Game
