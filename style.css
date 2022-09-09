@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
+html, body{
+    background: #343838;
+    font-family: 'Lemon', cursive;
+}
+
+canvas {
+    display: block;
+    margin: auto;
+    border: 1px solid black;
+    background: #AFBBBB;
+}
+
+#playbutton {
+    font-family: 'Lemon', cursive;
+    border-radius: 5px;
+    width: 120px;
+    height: 50px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    font-size: 30px;
+    background-color: white;
+    cursor: pointer;
+}
+#playbutton:hover{
+    background-color: #00E676;
+    font-size: 31px;
+}
